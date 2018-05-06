@@ -2,8 +2,7 @@
 ASE Java test subject implementation
 
 ## SPEC (OCR-d from bad photo so take it with a grain of salt):
-## SUBIECT Java-2 Aprilie 2015
-
+SUBIECT Java-2 Aprilie 2015
 ### Nota 2; IXvvoltarva unui proiect in Java cu numele: 2 Grupa NUMI: IVcnumc.
 ### Nota 3: Şa se implementeze inter lata Drivcahle cu metodei:
 • i \ii'In\tisiart'\) retumea/n bool.
